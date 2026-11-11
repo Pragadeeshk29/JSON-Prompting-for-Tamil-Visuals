@@ -1,0 +1,38 @@
+{
+  "subject": "A busy Tamil port city with stone wharves, wooden ships, merchants, dock workers, sailors, spice sacks, textiles, pottery, and temple towers visible in the distance",
+  "setting": {
+    "place": "A Chola-era Tamil port city on the Coromandel Coast, near the harbor, marketplace, warehouses, and a temple-centered urban settlement",
+    "era": "South India, circa 11th century Chola period, around 1000 years ago",
+    "time_of_day": "golden hour"
+  },
+  "lighting": "Warm natural golden-hour light with a clear coastal atmosphere",
+  "camera": {
+    "shot": "close-up",
+    "lens": "35mm",
+    "angle": "eye-level, slightly elevated to capture harbor trade activity in detail"
+  },
+  "palette": [
+    "earthy brown",
+    "ocean blue",
+    "sunlit sandstone"
+  ],
+  "style": "Historically grounded cinematic realism with detailed wood and stone textures, bustling maritime trade energy, and culturally authentic Tamil-Chola visual design",
+  "aspect_ratio": "16:9",
+  "motion": {
+    "subject_motion": "Merchants and dock workers move through the harbor carrying spice sacks and pottery, while sailors adjust ropes and cloth sails in the sea breeze",
+    "camera_move": "slow cinematic push-in toward the busy waterfront scene",
+    "duration_seconds": 5
+  },
+  "avoid": [
+    "concrete buildings",
+    "plastic objects",
+    "modern cranes",
+    "jeans",
+    "modern shirts",
+    "fantasy ships",
+    "colonial architecture",
+    "neon colors",
+    "modern vehicles",
+    "inaccurate North Indian elements"
+  ]
+}
